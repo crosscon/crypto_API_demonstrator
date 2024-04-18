@@ -1,0 +1,3 @@
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/psa_crypto_client.c:33:6:psa_reset_key_attributes	16	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/psa_crypto_client.c:39:14:psa_set_key_domain_parameters	32	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/psa_crypto_client.c:69:14:psa_get_key_domain_parameters	24	static

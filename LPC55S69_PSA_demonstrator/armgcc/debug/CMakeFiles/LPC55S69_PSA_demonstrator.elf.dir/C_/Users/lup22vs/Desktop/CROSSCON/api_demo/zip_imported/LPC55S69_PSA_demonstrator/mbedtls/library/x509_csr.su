@@ -1,0 +1,7 @@
+c:\users\lup22vs\desktop\crosscon\api_demo\zip_imported\lpc55s69_psa_demonstrator\mbedtls\include\mbedtls\error.h:159:19:mbedtls_error_add	24	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/x509_csr.c:62:12:x509_csr_get_version	32	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/x509_csr.c:85:5:mbedtls_x509_csr_parse_der	72	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/x509_csr.c:257:5:mbedtls_x509_csr_parse	64	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/x509_csr.c:331:5:mbedtls_x509_csr_info	64	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/x509_csr.c:374:6:mbedtls_x509_csr_init	16	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/x509_csr.c:382:6:mbedtls_x509_csr_free	24	static

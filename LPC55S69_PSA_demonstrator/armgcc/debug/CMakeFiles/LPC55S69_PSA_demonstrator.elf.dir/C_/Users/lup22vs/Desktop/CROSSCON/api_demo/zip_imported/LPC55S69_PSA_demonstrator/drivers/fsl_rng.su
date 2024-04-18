@@ -1,0 +1,7 @@
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/drivers/fsl_clock.h:983:20:CLOCK_EnableClock	24	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/drivers/fsl_clock.h:993:20:CLOCK_DisableClock	24	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/drivers/fsl_rng.c:26:13:rng_accumulateEntropy	24	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/drivers/fsl_rng.c:62:17:rng_readEntropy	32	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/drivers/fsl_rng.c:106:6:RNG_Init	24	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/drivers/fsl_rng.c:150:6:RNG_Deinit	16	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/drivers/fsl_rng.c:165:10:RNG_GetRandomData	48	static

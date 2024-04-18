@@ -1,0 +1,5 @@
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/rsa_internal.c:62:5:mbedtls_rsa_deduce_primes	136	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/rsa_internal.c:197:5:mbedtls_rsa_deduce_private_exponent	56	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/rsa_internal.c:243:5:mbedtls_rsa_validate_crt	56	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/rsa_internal.c:331:5:mbedtls_rsa_validate_params	56	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/rsa_internal.c:452:5:mbedtls_rsa_deduce_crt	40	static

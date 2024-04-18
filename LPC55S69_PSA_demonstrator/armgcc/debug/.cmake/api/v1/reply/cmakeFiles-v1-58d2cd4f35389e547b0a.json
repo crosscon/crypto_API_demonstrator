@@ -1,0 +1,160 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "debug/CMakeFiles/3.28.1/CMakeSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/lup22vs/Documents/mcusdk/core/tools/cmake_toolchain_files/armgcc.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/lup22vs/Documents/mcusdk/core/tools/cmake_toolchain_files/mcux_config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/lup22vs/.mcuxpressotools/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "debug/CMakeFiles/3.28.1/CMakeASMCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/lup22vs/.mcuxpressotools/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/lup22vs/.mcuxpressotools/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/lup22vs/.mcuxpressotools/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/lup22vs/.mcuxpressotools/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/Platform/Generic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/lup22vs/.mcuxpressotools/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CMakeASMInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/lup22vs/.mcuxpressotools/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/Compiler/GNU-ASM.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/lup22vs/.mcuxpressotools/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/lup22vs/.mcuxpressotools/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"path" : "ide_overrides.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/lup22vs/.mcuxpressotools/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/lup22vs/.mcuxpressotools/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/lup22vs/.mcuxpressotools/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/lup22vs/.mcuxpressotools/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/lup22vs/.mcuxpressotools/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/Platform/Generic.cmake"
+		},
+		{
+			"path" : "user_override.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/lup22vs/.mcuxpressotools/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/lup22vs/.mcuxpressotools/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/lup22vs/.mcuxpressotools/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/lup22vs/.mcuxpressotools/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/lup22vs/.mcuxpressotools/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/lup22vs/.mcuxpressotools/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/Platform/Generic.cmake"
+		},
+		{
+			"path" : "user_override.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/lup22vs/.mcuxpressotools/cmake-3.28.1-windows-x86_64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "flags.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/armgcc/debug",
+		"source" : "C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/armgcc"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

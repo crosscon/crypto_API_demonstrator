@@ -1,0 +1,7 @@
+c:\users\lup22vs\desktop\crosscon\api_demo\zip_imported\lpc55s69_psa_demonstrator\drivers\fsl_power.h:385:20:POWER_DisablePD	16	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/board/clock_config.c:51:6:BOARD_InitBootClocks	8	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/board/clock_config.c:78:6:BOARD_BootClockFRO12M	8	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/board/clock_config.c:127:6:BOARD_BootClockFROHF96M	8	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/board/clock_config.c:184:6:BOARD_BootClockPLL100M	40	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/board/clock_config.c:260:6:BOARD_BootClockPLL150M	40	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/board/clock_config.c:333:6:BOARD_BootClockPLL1_150M	40	static

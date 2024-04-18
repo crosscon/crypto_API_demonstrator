@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/esp32_PSA_demonstrator/build/CMakeFiles/bootloader
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/esp32_PSA_demonstrator/build/CMakeFiles/bootloader.rule
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/esp32_PSA_demonstrator/build/CMakeFiles/bootloader-complete.rule
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/esp32_PSA_demonstrator/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/esp32_PSA_demonstrator/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/esp32_PSA_demonstrator/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/esp32_PSA_demonstrator/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/esp32_PSA_demonstrator/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/esp32_PSA_demonstrator/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/esp32_PSA_demonstrator/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

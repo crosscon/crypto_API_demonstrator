@@ -1,0 +1,11 @@
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/psa_crypto_cipher.c:34:30:mbedtls_cipher_info_from_psa	32	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/psa_crypto_cipher.c:163:21:psa_cipher_setup	64	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/psa_crypto_cipher.c:240:14:mbedtls_psa_cipher_encrypt_setup	32	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/psa_crypto_cipher.c:251:14:mbedtls_psa_cipher_decrypt_setup	32	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/psa_crypto_cipher.c:262:14:mbedtls_psa_cipher_set_iv	24	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/psa_crypto_cipher.c:298:21:psa_cipher_update_ecb	48	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/psa_crypto_cipher.c:380:14:mbedtls_psa_cipher_update	40	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/psa_crypto_cipher.c:432:14:mbedtls_psa_cipher_finish	48	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/psa_crypto_cipher.c:470:14:mbedtls_psa_cipher_abort	16	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/psa_crypto_cipher.c:483:14:mbedtls_psa_cipher_encrypt	120	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/psa_crypto_cipher.c:534:14:mbedtls_psa_cipher_decrypt	120	static

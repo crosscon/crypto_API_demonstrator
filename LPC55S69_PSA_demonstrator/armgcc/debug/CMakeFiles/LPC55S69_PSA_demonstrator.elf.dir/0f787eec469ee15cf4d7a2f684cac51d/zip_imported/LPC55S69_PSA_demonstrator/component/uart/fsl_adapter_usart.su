@@ -1,0 +1,8 @@
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/component/uart/fsl_adapter_usart.c:167:26:HAL_UartGetStatus	16	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/component/uart/fsl_adapter_usart.c:272:26:HAL_UartInitCommon	40	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/component/uart/fsl_adapter_usart.c:327:19:HAL_UartInit	24	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/component/uart/fsl_adapter_usart.c:362:19:HAL_UartDeinit	24	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/component/uart/fsl_adapter_usart.c:375:19:HAL_UartReceiveBlocking	32	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/component/uart/fsl_adapter_usart.c:397:19:HAL_UartSendBlocking	32	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/component/uart/fsl_adapter_usart.c:418:19:HAL_UartEnterLowpower	16	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/component/uart/fsl_adapter_usart.c:425:19:HAL_UartExitLowpower	16	static

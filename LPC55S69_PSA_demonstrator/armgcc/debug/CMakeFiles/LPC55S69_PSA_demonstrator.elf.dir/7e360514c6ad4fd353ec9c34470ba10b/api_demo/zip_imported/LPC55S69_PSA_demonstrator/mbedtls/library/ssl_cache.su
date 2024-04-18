@@ -1,0 +1,5 @@
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/ssl_cache.c:41:6:mbedtls_ssl_cache_init	16	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/ssl_cache.c:53:5:mbedtls_ssl_cache_get	32	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/ssl_cache.c:138:5:mbedtls_ssl_cache_set	40	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/ssl_cache.c:311:6:mbedtls_ssl_cache_set_max_entries	16	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/mbedtls/library/ssl_cache.c:318:6:mbedtls_ssl_cache_free	24	static

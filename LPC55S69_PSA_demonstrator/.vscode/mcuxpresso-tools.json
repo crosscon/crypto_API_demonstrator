@@ -1,0 +1,24 @@
+{
+  "version": "1.4",
+  "toolchainPath": "C:\\NXP\\MCUXpressoIDE_11.8.0_1165\\ide\\tools",
+  "linkedProjects": [],
+  "trustZoneType": "none",
+  "multicoreType": "none",
+  "debug": {
+    "linkserver": {
+      "device": "LPC55S69:LPCXpresso55S69",
+      "core": "cm33_core0"
+    },
+    "pemicro": {},
+    "segger": {}
+  },
+  "projectType": "sdk-freestanding",
+  "sdk": {
+    "version": "2.13.1",
+    "boardId": "lpcxpresso55s69",
+    "path": "c:\\Users\\lup22vs\\Documents\\mcusdk",
+    "deviceId": "LPC55S69",
+    "coreId": "cm33_core0_LPC55S69",
+    "manifestId": "SDK_2.x_LPCXpresso55S69_manifest_v3_14"
+  }
+}

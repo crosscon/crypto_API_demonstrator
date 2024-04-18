@@ -1,0 +1,14 @@
+c:\users\lup22vs\desktop\crosscon\api_demo\zip_imported\lpc55s69_psa_demonstrator\drivers\fsl_power.h:398:20:POWER_SetBodVbatLevel	16	static
+c:\users\lup22vs\desktop\crosscon\api_demo\zip_imported\lpc55s69_psa_demonstrator\mbedtls\include\psa\crypto_struct.h:338:43:psa_key_attributes_init	64	static
+c:\users\lup22vs\desktop\crosscon\api_demo\zip_imported\lpc55s69_psa_demonstrator\mbedtls\include\psa\crypto_struct.h:394:20:psa_extend_key_usage_flags	16	static
+c:\users\lup22vs\desktop\crosscon\api_demo\zip_imported\lpc55s69_psa_demonstrator\mbedtls\include\psa\crypto_struct.h:403:20:psa_set_key_usage_flags	16	static
+c:\users\lup22vs\desktop\crosscon\api_demo\zip_imported\lpc55s69_psa_demonstrator\mbedtls\include\psa\crypto_struct.h:416:20:psa_set_key_algorithm	16	static
+c:\users\lup22vs\desktop\crosscon\api_demo\zip_imported\lpc55s69_psa_demonstrator\mbedtls\include\psa\crypto_struct.h:435:20:psa_set_key_type	16	static
+c:\users\lup22vs\desktop\crosscon\api_demo\zip_imported\lpc55s69_psa_demonstrator\mbedtls\include\psa\crypto_struct.h:459:20:psa_set_key_bits	16	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/source/LPC55S69_PSA_demonstrator.c:31:6:enableCycleCounter	4	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/source/LPC55S69_PSA_demonstrator.c:35:10:getClockCycles	4	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/source/LPC55S69_PSA_demonstrator.c:38:6:SysTick_Handler	4	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/source/LPC55S69_PSA_demonstrator.c:43:12:print_features	16	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/source/LPC55S69_PSA_demonstrator.c:99:6:test_hash	136	static
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/source/LPC55S69_PSA_demonstrator.c:130:6:test_aes	224	dynamic
+C:/Users/lup22vs/Desktop/CROSSCON/api_demo/zip_imported/LPC55S69_PSA_demonstrator/source/LPC55S69_PSA_demonstrator.c:182:5:main	600	static
