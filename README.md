@@ -1,6 +1,6 @@
 # Platform Security Architecture (PSA) Crypto API Demonstrator
 
-This repository hosts a demonstrator for the PSA Crypto API, illustrating basic cryptographic operations including symmetric encryption using AES-128 and SHA-256 hashing. The demonstrator is part of the [CROSSCON project](https://crosscon.eu/), which contributes to Deliverable 4.2: CROSSCON Extension Primitives to Domain Specific Hardware Architectures — Initial Version.
+This repository hosts a demonstrator for the PSA Crypto API, illustrating basic cryptographic operations including symmetric encryption using AES-128 and SHA-256 hashing. The demonstrator is part of the [CROSSCON] project (https://crosscon.eu/), which contributes to Deliverable 4.2: CROSSCON Extension Primitives to Domain Specific Hardware Architectures — Initial Version.
 
 ## Overview
 
