@@ -17,3 +17,15 @@ To build and flash the examples on the ESP32-C3 development board, use the [ESP-
 ### LPC55S69-EVK
 
 The same example setup is provided for the LPC55S69-EVK. Build and flash the program using the [MCUXpresso SDK](https://www.nxp.com/products/processors-and-microcontrollers/arm-microcontrollers/general-purpose-mcus/mcx-arm-cortex-m/mcx-a-series-microcontrollers/mcuxpresso-for-visual-studio-code:MCUXPRESSO-VSC), available as a VS Code extension, or directly via the [MCUXpresso IDE](https://www.nxp.com/design/design-center/software/development-software/mcuxpresso-software-and-tools-/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE). To disable hardware acceleration, remove the CMAKE flags **-DMBEDTLS_FREESCALE_HASHCRYPT_AES** and **-DMBEDTLS_FREESCALE_HASHCRYPT_SHA256** found in the `armgcc` folder. Alternatively, MCUXpresso IDE users can adjust settings via the GUI (Properties -> C/C++ Build -> Setting -> MCU C Compiler -> Preprocessor).
+
+## Acknowledgments
+
+The work presented in this repository is part of the [CROSSCON project](https://crosscon.eu/) that received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No 101070537.
+
+<p align="center">
+    <img src="https://crosscon.eu/sites/crosscon/themes/crosscon/images/eu.svg" width=10% height=10%>
+</p>
+
+<p align="center">
+    <img src="https://crosscon.eu/sites/crosscon/files/public/styles/large_1080_/public/content-images/media/2023/crosscon_logo.png?itok=LUH3ejzO" width=25% height=25%>
+</p>
