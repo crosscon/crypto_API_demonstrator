@@ -8,6 +8,13 @@ CROSSCON aims to develop a unified software stack for resource-constrained IoT d
 
 In this demonstrator, the API facilitates exemplary encryption and decryption using AES-128, as well as data hashing with SHA-256. To demonstrate interoperability, we apply the API across two IoT development boards: the LPC55S69-EVK, equipped with an ARM Cortex-M33 processor, and the ESP32-C3, a RISC-V development board. Both devices are outfitted with hardware accelerators for these operations, allowing the demonstrator to perform the operations either via the cryptographic accelerator or entirely in software, depending on the build configuration.
 
+<p align="center">
+    <img src="./imgs/api_demo_figure.png" width=50% height=50%>
+</p> 
+<p align="center">Figure 1: High-level overview of API Demonstrator <p align="center">
+
+The figure illustrates the operational principle of the demonstrator. Applications requiring cryptographic operations call the provided API function. Depending on the configuration, the underlying implementation performs the operation either in software or, if available, utilizes a hardware accelerator. Within CROSSCON, trusted services needing to perform specific cryptographic tasks, such as hashing or data encryption/decryption, simply invoke the API. During the stack's construction, the configuration allows for the option of building with hardware acceleration. If this is not available or not desired, the system can deliver the same functionality in software, eliminating the need for application modifications.
+
 ## How to run the examples
 
 ### ESP32-C3
